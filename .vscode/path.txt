@@ -1,0 +1,1 @@
+& C:/Users/Администратор/AppData/Local/Programs/Python/Python310/python.exe "c:/Users/User/Py projects/Auto-test[QA startUp]/main.py"
